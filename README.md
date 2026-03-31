@@ -30,7 +30,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AsmaaMostafa899&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d"/>
@@ -130,7 +130,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## � Current Focus & Goals
+## 🎯 Current Focus & Goals
 
 <div align="center">
   <img src="https://github.com/AsmaaMostafa899/AsmaaMostafa899/blob/main/assets/rocket.gif" width="80" />
@@ -144,7 +144,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## �� Achievements & Recognition
+## 🏆 Achievements & Recognition
 
 <div align="center">
   <img src="https://img.shields.io/badge/🏆-Top%20Contributor-89CFF0?style=for-the-badge" />
