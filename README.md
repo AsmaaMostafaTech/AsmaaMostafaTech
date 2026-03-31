@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AsmaaMostafa899/AsmaaMostafa899/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AsmaaMostafa899/AsmaaMostafa899/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -33,12 +33,12 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AsmaaMostafa899&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AsmaaMostafa899&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafa899&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafa899&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaaMostafa899&theme=radical&bg_color=0D1117&color=ffffff&line=89CFF0&point=ff6b6b&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaMostafa899&theme=radical&background=0D1117&border=30363d&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff" />
 </div>
 
 <div align="center">
@@ -133,7 +133,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 🎯 Current Focus & Goals
 
 <div align="center">
-  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafa899/blob/main/assets/rocket.gif" width="80" />
+  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafa899/raw/main/assets/rocket.gif" width="80" />
 </div>
 
 - 🚀 **Building innovative full-stack applications** that solve real-world problems
