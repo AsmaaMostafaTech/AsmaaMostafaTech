@@ -62,31 +62,58 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /></td>
     </tr>
     <tr>
       <td><strong>JavaScript</strong></td>
       <td><strong>TypeScript</strong></td>
       <td><strong>Python</strong></td>
+      <td><strong>HTML5</strong></td>
+      <td><strong>CSS3</strong></td>
     </tr>
   </table>
   
-  ### ⚛️ Frontend & Backend
+  ### 🎨 Frontend Frameworks
   <table>
     <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td><strong>Bootstrap</strong></td>
+      <td><strong>React</strong></td>
+    </tr>
+  </table>
+  
+  ### ⚙️ Backend & Database
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /></td>
     </tr>
     <tr>
-      <td><strong>React</strong></td>
+      <td><strong>PHP</strong></td>
+      <td><strong>Laravel</strong></td>
       <td><strong>Node.js</strong></td>
       <td><strong>MongoDB</strong></td>
       <td><strong>MySQL</strong></td>
     </tr>
   </table>
   
-  ### 🗄️ Database & DevOps
+  ### 🧠 Programming Concepts
+  <table>
+    <tr>
+      <td><strong>OOP</strong></td>
+      <td><strong>Data Structures</strong></td>
+      <td><strong>Database Design</strong></td>
+    </tr>
+  </table>
+  
+  ### 🛠️ Tools & DevOps
   <table>
     <tr>
       <td><img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" /></td>
