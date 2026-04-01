@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=280&section=header&text=Asmaa%20Mostafa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AsmaaMostafaTech%20%7C%20Creative%20Technologist&descSize=20&descColor=ffffff)
