@@ -58,6 +58,8 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ## 🛠️ Tech Stack & Expertise
 
+<img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="230">
+
 <div align="center">
   <table>
     <tr>
