@@ -63,7 +63,6 @@ Hi there! I'm **Asmaa Mostafa**
         <div style="font-size: 4em; margin-bottom: 15px;">�</div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0; font-size: 1.5em;">SignTalk</h3>
         <p style="color: #2C3E50; font-style: italic; margin: 0 0 10px 0;">AI Sign Language Translation</p>
-        <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="SignTalk Demo" width="100" style="border-radius: 10px; margin: 10px 0;" />
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
           <strong style="color: #FF6B35;">🏆 Huawei Winner</strong><br>
           <strong style="color: #FF6B35;">💡 Helps hearing impaired</strong><br>
@@ -92,7 +91,6 @@ Hi there! I'm **Asmaa Mostafa**
         <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
         <p style="color: white; font-style: italic; margin: 0 0 10px 0;">Weather Insights Platform</p>
-        <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="SkyCast Demo" width="100" style="border-radius: 10px; margin: 10px 0;" />
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
           <strong style="color: white;">🏆 NASA Space Apps</strong><br>
           <strong style="color: white;">🚀 Fast predictions</strong><br>
