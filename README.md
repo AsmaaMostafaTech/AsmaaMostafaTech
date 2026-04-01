@@ -38,11 +38,11 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff"/>
+  <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph" />
+  <img src="https://gh-chart.rshah.org/AsmaaMostafaTech" alt="Asmaa's GitHub contribution graph" />
 </div>
 
 <div align="center">
