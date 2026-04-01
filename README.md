@@ -234,20 +234,6 @@ Hi there! I'm **Asmaa Mostafa**
 
 ---
 
-## 🎯 Goals & Vision
-
-### 🚀 Short-term Goals
-- **Master TypeScript** and advanced React patterns  
-- **Explore cloud computing** with AWS and serverless architectures  
-- **Contribute to open-source** projects that make a difference  
-
-### 🌍 Long-term Vision
-- **Build products** that solve real-world problems  
-- **Mentor aspiring developers** and share knowledge  
-- **Create sustainable tech** solutions for a better future  
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
