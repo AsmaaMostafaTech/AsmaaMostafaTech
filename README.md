@@ -6,12 +6,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
