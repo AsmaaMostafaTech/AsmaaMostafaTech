@@ -176,7 +176,7 @@
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
         <div style="font-size: 1.8em; margin-bottom: 8px;">🏛️</div>
         <strong>Library Management System</strong><br>
-        <small>PHP, MySQL, Bootstrap</small><br>
+        <small>Complete library solution with catalog & circulation management</small><br>
         <a href="https://github.com/AsmaaMostafaTech/library-website" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
@@ -184,7 +184,7 @@
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
         <div style="font-size: 1.8em; margin-bottom: 8px;">🍽️</div>
         <strong>Restaurant POS System</strong><br>
-        <small>Laravel, Vue.js, MySQL</small><br>
+        <small>Complete restaurant management with order tracking & payments</small><br>
         <a href="https://github.com/AsmaaMostafaTech/restaurant-laravel-system" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
@@ -192,7 +192,7 @@
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
         <div style="font-size: 1.8em; margin-bottom: 8px;">🛒</div>
         <strong>E-Commerce Platform</strong><br>
-        <small>JavaScript, Node.js, MongoDB</small><br>
+        <small>Modern online shopping experience with cart & payment integration</small><br>
         <a href="https://github.com/AsmaaMostafaTech/luxury-fakestore" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
@@ -200,7 +200,7 @@
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
         <div style="font-size: 1.8em; margin-bottom: 8px;">🎓</div>
         <strong>Academic Research Portal</strong><br>
-        <small>Python, Django, PostgreSQL</small><br>
+        <small>Research collaboration platform with paper management & analytics</small><br>
         <a href="https://github.com/AsmaaMostafaTech/asmaa-portfolio-Public" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
@@ -208,7 +208,7 @@
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
         <div style="font-size: 1.8em; margin-bottom: 8px;">📊</div>
         <strong>Data Analytics Dashboard</strong><br>
-        <small>React, D3.js, APIs</small><br>
+        <small>Interactive data visualization with real-time analytics & reporting</small><br>
         <a href="https://github.com/AsmaaMostafaTech/AsmaaMostafaTech" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         </a>
