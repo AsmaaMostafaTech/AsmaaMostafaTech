@@ -86,6 +86,9 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   <img src="https://img.shields.io/badge/Data_Structures-FF6F61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABH0lEQVR42mL8//8/AymAiSTeASz0wxf///wcjwxANyiMD1gCoKk6Pr6+f1NfNz8iAfKGBjM/T1x8/fH7K3v7z+5+Qv5fvbx/f39k6J4AzxkT/++/+cUxxJXAwMD/6zH9///9+4+YGTQDx4+P7X9//8X4eHjz8DAwMrBiI/OP6v5z/czYGDkAPw8fHx1+jo6f6S8fHxX++vXjx8fH79+/v/Dy8P7/+/f+NGLwH4wMjAxMDAwMDAwMP7b++fPnz4GqGwcZ/+/v78nPjx+//+/PnH++vXrw+O+QMQ+XAAAMBgUoKhkEK2YAAAAASUVORK5CYII=&style=for-the-badge&logoColor=white" alt="Data Structures"/>
 </a>
 <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/CI/CD-6A1B9A?style=for-the-badge&logoColor=white" alt="CI/CD"/>
+</a>
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="OOP"/>
 </a>
 <a href="#" target="_blank">
@@ -94,6 +97,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Design_Patterns-FF5733?style=for-the-badge&logo=adobe&logoColor=white" alt="Design Patterns"/>
 </a>
+<p>مهاراتي تتضمن: بناء تطبيقات الويب الكاملة، تصميم واجهات المستخدم، تطوير الخوادم، قواعد البيانات، اختبار البرمجيات، تصميم الأنماط، هندسة البرمجيات.</p>
 
 ---
 
