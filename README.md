@@ -30,12 +30,24 @@ Hi there! I'm **Asmaa Mostafa**
 
 <div align="center">
   
-  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
-    <h2 style="color: white; margin: 0; font-size: 2em;">📊 GitHub Analytics</h2>
-    <p style="color: white; opacity: 0.9; margin: 10px 0;">Real-time development insights & activity metrics</p>
+  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 40px; border-radius: 25px; margin-bottom: 25px; box-shadow: 0 15px 50px rgba(70,130,180,0.2); border: 2px solid rgba(255,255,255,0.1);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+      <div style="font-size: 3em; margin-right: 15px;">📊</div>
+      <div>
+        <h2 style="color: white; margin: 0; font-size: 2.2em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">GitHub Analytics</h2>
+        <p style="color: white; opacity: 0.95; margin: 8px 0; font-size: 1.1em; font-style: italic;">Real-time development insights & activity metrics</p>
+      </div>
+    </div>
+    <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 15px; margin-top: 15px;">
+      <p style="color: white; margin: 0; text-align: center; font-size: 0.95em;">
+        <strong style="color: #FFD700;">📈</strong> Track your coding journey 
+        <strong style="color: #87CEEB;">🚀</strong> Monitor project growth 
+        <strong style="color: #98FB98;">⭐</strong> Showcase your achievements
+      </p>
+    </div>
   </div>
   
----
+</div>---
 
 ## 🛠️ Tech Stack & Expertise
 
