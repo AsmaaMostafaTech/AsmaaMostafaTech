@@ -117,11 +117,11 @@
       <td style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(255,215,0,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥇</div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0; font-size: 1.5em;">SignTalk</h3>
-        <p style="color: #2C3E50; font-style: italic; margin: 0 0 10px 0;">AI Sign Language Translation</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥇 <strong style="color: #FFD700;">Huawei Competition Winner</strong> | AI-powered sign language translation app</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
           <strong style="color: #FF6B35;">🏆 Huawei Winner</strong><br>
-          <strong style="color: #FF6B35;">💡 Helps hearing impaired</strong><br>
-          <strong style="color: #FF6B35;">🛠 JavaScript, AI</strong>
+          <strong style="color: #FF6B35;">💡 AI-Powered Communication</strong><br>
+          <strong style="color: #FF6B35;">🛠 JavaScript, TensorFlow</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -130,11 +130,11 @@
       <td style="background: linear-gradient(135deg, #C0C0C0, #808080); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(192,192,192,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥈</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">RecyConnect</h3>
-        <p style="color: white; font-style: italic; margin: 0 0 10px 0;">Smart Recycling Platform</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥈 <strong style="color: white;">🏆 ISEF Science Fair</strong> | Smart recycling & sustainability platform</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
-          <strong style="color: white;">🏆 ISEF Science Fair</strong><br>
-          <strong style="color: white;">🌍 Environmental impact</strong><br>
-          <strong style="color: white;">🛠 HTML, CSS, JS</strong>
+          <strong style="color: white;">🏆 ISEF Finalist</strong><br>
+          <strong style="color: white;">🌍 Environmental Impact</strong><br>
+          <strong style="color: white;">🛠 HTML, CSS, JavaScript</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -145,11 +145,11 @@
       <td style="background: linear-gradient(135deg, #CD7F32, #8B4513); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(205,127,50,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
-        <p style="color: white; font-style: italic; margin: 0 0 10px 0;">Weather Insights Platform</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥉 <strong style="color: white;">🏆 NASA Space Apps</strong> | Real-time weather insights platform</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
           <strong style="color: white;">🏆 NASA Space Apps</strong><br>
-          <strong style="color: white;">🚀 Fast predictions</strong><br>
-          <strong style="color: white;">🛠 JavaScript, APIs</strong>
+          <strong style="color: white;">🚀 Real-time Predictions</strong><br>
+          <strong style="color: white;">🛠 JavaScript, Weather APIs</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
