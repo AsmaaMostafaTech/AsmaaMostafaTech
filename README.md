@@ -4,12 +4,6 @@
 
 </div>  
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
-  </a>
-</div>
-
 ---
 
 ## 👩‍💻 About Me
