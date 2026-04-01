@@ -168,31 +168,19 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
     
     <a href="https://linkedin.com/in/asmaamostafa" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" 
-           alt="LinkedIn" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
-           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(10,102,194,0.3)'" 
-           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
     </a>
     
     <a href="mailto:asmaamostafa.dev@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" 
-           alt="Email" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
-           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(209,72,54,0.3)'" 
-           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
     </a>
     
     <a href="https://github.com/AsmaaMostafaTech" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" 
-           alt="GitHub" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
-           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(24,23,37,0.3)'" 
-           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
     </a>
     
     <a href="https://asmaamostafa.tech" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" 
-           alt="Portfolio" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
-           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(70,130,180,0.3)'" 
-           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+      <img src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" alt="Portfolio" />
     </a>
     
   </div>
