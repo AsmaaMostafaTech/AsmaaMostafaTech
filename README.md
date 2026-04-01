@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafaTech/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -33,20 +33,20 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafa899&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafa899&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaMostafa899&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsmaaMostafa899&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaaMostafa899&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AsmaaMostafaTech&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ---
@@ -137,7 +137,11 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 🎯 Current Focus & Goals
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://github.com/AsmaaMostafa899/AsmaaMostafaTech/raw/main/assets/rocket.gif" width="80" />
+=======
+  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafa899/raw/main/assets/rocket.gif" width="80" />
+>>>>>>> a78f4269804fa77e6f8cf60dbed1e4be4e2b1de3
 </div>
 
 - 🚀 **Building innovative full-stack applications** that solve real-world problems
