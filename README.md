@@ -51,63 +51,70 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## � Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
-### 📝 Languages & Web
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</a>
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
+<div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 15px; padding: 25px; margin: 20px 0; box-shadow: 0 8px 32px rgba(70, 130, 180, 0.1);">
 
-### ⚡ Frameworks & Libraries
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</a>
-
-### 🛠 Skills & Concepts
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Data_Structures-FF6F61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABH0lEQVR42mL8//8/AymAiSTeASz0wxf///wcjwxANyiMD1gCoKk6Pr6+f1NfNz8iAfKGBjM/T1x8/fH7K3v7z+5+Qv5fvbx/f39k6J4AzxkT/++/+cUxxJXAwMD/6zH9///9+4+YGTQDx4+P7X9//8X4eHjz8DAwMrBiI/OP6v5z/czYGDkAPw8fHx1+jo6f6S8fHxX++vXjx8fH79+/v/Dy8P7/+/f+NGLwH4wMjAxMDAwMDAwMP7b++fPnz4GqGwcZ/+/v78nPjx+//+/PnH++vXrw+O+QMQ+XAAAMBgUoKhkEK2YAAAAASUVORK5CYII=&style=for-the-badge&logoColor=white" alt="Data Structures"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/CI/CD-6A1B9A?style=for-the-badge&logoColor=white" alt="CI/CD"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="OOP"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Testing-FFC107?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Design_Patterns-FF5733?style=for-the-badge&logo=adobe&logoColor=white" alt="Design Patterns"/>
-</a>
-<p>مهاراتي تتضمن: بناء تطبيقات الويب الكاملة، تصميم واجهات المستخدم، تطوير الخوادم، قواعد البيانات، اختبار البرمجيات، تصميم الأنماط، هندسة البرمجيات.</p>
-
----
-
-## 🚀 What I Build  
-
-- 💻 **Full-Stack Web Applications** with modern architectures  
-- 🎨 **Responsive Front-End Interfaces** (React, Redux, Tailwind CSS)  
-- ⚙️ **Scalable Back-End APIs** (Node.js, Express, MongoDB, PostgreSQL)  
-- 🌱 **Sustainable Tech Solutions** that combine creativity with functionality  
-- 🔄 **CI/CD Pipelines** and DevOps best practices  
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  
+  <div style="flex: 1;">
+    <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" style="margin-left: 20px; border-radius: 10px;" />
+  </div>
+  
+  <div style="flex: 2; background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
+    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">💻 **Core Technologies**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">JavaScript</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">TypeScript</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">Python</strong>
+      </div>
+    </div>
+    
+    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">⚛️ **Frontend & Backend**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">React</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">Node.js</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">MongoDB</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">MySQL</strong>
+      </div>
+    </div>
+    
+    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">🗄️ **Database & DevOps**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">Figma</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">Git</strong>
+      </div>
+      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+        <br><strong style="color: white; font-size: 0.9em;">Docker</strong>
+      </div>
+    </div>
+  </div>
+</div>  
 
 ---
 
