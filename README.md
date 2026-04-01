@@ -116,8 +116,8 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### 🛠️ Tools & DevOps
   <table>
     <tr>
-      <td><img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /></td>
     </tr>
     <tr>
