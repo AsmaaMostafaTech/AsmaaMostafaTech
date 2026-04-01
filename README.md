@@ -10,19 +10,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafaTech&repo=asmaa-portfolio&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d" />
 </div>
 
 ---
 
 ## 👩‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/3oKIPEqKGU7iMKXouc/giphy.gif" alt="Laptop coding" width="25%" />
 
 Hi there! I'm **Asmaa Mostafa** — 💻 the founder of **AsmaaMostafaTech** and a **Full-Stack Developer** with a strong passion for building meaningful and creative digital solutions.  
 
@@ -42,27 +36,21 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff&icon_color=FF6B35&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff&card_width=320"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff&dates=FFC107"/>
+  <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=ffffff&dates=FF6B35"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph&radius=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaaMostafaTech&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph&radius=8&color=FF6B35&line=FF6B35&point=FF6B35" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-<img align='right' src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230">
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
@@ -117,8 +105,6 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ## 🚀 What I Build  
 
-<img align='right' src="https://i.pinimg.com/originals/28/24/40/2824406464145a759b5396caeccf290b.gif" width="250">
-
 - 💻 **Full-Stack Web Applications** with modern architectures  
 - 🎨 **Responsive Front-End Interfaces** (React, Redux, Tailwind CSS)  
 - ⚙️ **Scalable Back-End APIs** (Node.js, Express, MongoDB, PostgreSQL)  
@@ -127,9 +113,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🎯 Current Goals & Vision
-
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+## 🎯 Goals & Vision
 
 ### 🚀 Short-term Goals
 - **Master TypeScript** and advanced React patterns  
@@ -143,12 +127,12 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆-Top%20Contributor-89CFF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆-Top%20Contributor-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⭐-100%2B%20Stars-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥-Active%20Developer-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥-Active%20Developer-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💡-Innovation%20Driven-4CAF50?style=for-the-badge" />
 </div>
 
@@ -170,31 +154,19 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
   
-  <a href="https://twitter.com/asmaamostafa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" />
-  </a>
-  
   <a href="https://asmaamostafa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" />
   </a>
 
 </div>
 
 ---
 
-## 📈 Impact & Metrics
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsmaaMostafaTech&style=for-the-badge&color=89CFF0" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AsmaaMostafaTech&style=for-the-badge&color=FF6B35" alt="Profile views" />
 </div>
 
 ---
-
-<div align="center">
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.&author=Asmaa%20Mostafa" />
-  </p>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&color=ffffff&color=FF6B35&height=160&section=footer&animation=twinkling" />
