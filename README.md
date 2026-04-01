@@ -113,11 +113,31 @@ Hi there! I'm **Asmaa Mostafa**
   <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 25px; border-radius: 15px; margin-top: 30px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
     <h3 style="color: white; margin: 0 0 15px 0;">📚 Additional Notable Projects</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; color: white;">
-      <div>🏛️ <strong>Library Management System</strong><br><small>PHP, MySQL, Bootstrap</small></div>
-      <div>🍽️ <strong>Restaurant POS System</strong><br><small>Laravel, Vue.js, MySQL</small></div>
-      <div>🛒 <strong>E-Commerce Platform</strong><br><small>JavaScript, Node.js, MongoDB</small></div>
-      <div>🎓 <strong>Academic Research Portal</strong><br><small>Python, Django, PostgreSQL</small></div>
-      <div>📊 <strong>Data Analytics Dashboard</strong><br><small>React, D3.js, APIs</small></div>
+      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+        <div style="font-size: 2em; margin-bottom: 10px;">🏛️</div>
+        <strong>Library Management System</strong><br>
+        <small>PHP, MySQL, Bootstrap</small>
+      </div>
+      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+        <div style="font-size: 2em; margin-bottom: 10px;">🍽️</div>
+        <strong>Restaurant POS System</strong><br>
+        <small>Laravel, Vue.js, MySQL</small>
+      </div>
+      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+        <div style="font-size: 2em; margin-bottom: 10px;">🛒</div>
+        <strong>E-Commerce Platform</strong><br>
+        <small>JavaScript, Node.js, MongoDB</small>
+      </div>
+      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+        <div style="font-size: 2em; margin-bottom: 10px;">🎓</div>
+        <strong>Academic Research Portal</strong><br>
+        <small>Python, Django, PostgreSQL</small>
+      </div>
+      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+        <div style="font-size: 2em; margin-bottom: 10px;">📊</div>
+        <strong>Data Analytics Dashboard</strong><br>
+        <small>React, D3.js, APIs</small>
+      </div>
     </div>
   </div>
   
