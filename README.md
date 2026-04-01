@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
+<img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="25%" />
 
 Hi there! I'm **Asmaa Mostafa** — 💻 the founder of **AsmaaMostafaTech** and a **Full-Stack Developer** with a strong passion for building meaningful and creative digital solutions.  
 
