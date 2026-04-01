@@ -42,7 +42,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 </div>
 
 <div align="center">
-  <img src="https://gh-chart.rshah.org/AsmaaMostafaTech" alt="Asmaa's GitHub contribution graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true" alt="Asmaa's GitHub contribution graph" />
 </div>
 
 <div align="center">
