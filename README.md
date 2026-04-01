@@ -5,6 +5,11 @@
 </div>  
 
 <div align="center">
+  <div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a>from <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a></div> 
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
   </a>
