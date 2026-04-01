@@ -30,14 +30,19 @@ Hi there! I'm **Asmaa Mostafa**
 
 <div align="center">
   
+  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
+    <h2 style="color: white; margin: 0; font-size: 2em;">📊 GitHub Analytics</h2>
+    <p style="color: white; opacity: 0.9; margin: 10px 0;">Real-time development insights & activity metrics</p>
+  </div>
+  
 ### 🚀 **GitHub Overview**
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&card_width=320"/>
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&card_width=350"/>
 </div>
 
 ### 🔥 **Contribution Streak**
-<img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=B0E0E6&stroke=4682B4&ring=4682B4&fire=4682B4&currStreakLabel=2C3E50&dates=4682B4"/>
+<img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=B0E0E6&stroke=4682B4&ring=4682B4&fire=4682B4&currStreakLabel=2C3E50&dates=4682B4" style="width: 100%; max-width: 800px;"/>
 
 </div>
 
@@ -57,11 +62,12 @@ Hi there! I'm **Asmaa Mostafa**
       <td style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(255,215,0,0.15); text-align: center; vertical-align: top;">
         <div style="font-size: 4em; margin-bottom: 15px;">�</div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0; font-size: 1.5em;">SignTalk</h3>
-        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">AI-Powered Sign Language Translation</p>
-        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
-          <strong style="color: #FF6B35;">🏆 Huawei Competition Winner</strong><br>
-          <strong style="color: #FF6B35;">💡 Impact:</strong> Helps bridge communication gap for hearing impaired<br>
-          <strong style="color: #FF6B35;">🛠 Tech:</strong> JavaScript, AI, Web APIs
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 10px 0;">AI Sign Language Translation</p>
+        <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="SignTalk Demo" width="100" style="border-radius: 10px; margin: 10px 0;" />
+        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
+          <strong style="color: #FF6B35;">🏆 Huawei Winner</strong><br>
+          <strong style="color: #FF6B35;">💡 Helps hearing impaired</strong><br>
+          <strong style="color: #FF6B35;">🛠 JavaScript, AI</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -70,11 +76,11 @@ Hi there! I'm **Asmaa Mostafa**
       <td style="background: linear-gradient(135deg, #C0C0C0, #808080); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(192,192,192,0.15); text-align: center; vertical-align: top;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥈</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">RecyConnect</h3>
-        <p style="color: white; font-style: italic; margin: 0 0 15px 0;">Sustainability & Smart Recycling Platform</p>
-        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
-          <strong style="color: white;">� ISEF International Science Fair</strong><br>
-          <strong style="color: white;">🌍 Focus:</strong> Environmental awareness & waste management<br>
-          <strong style="color: white;">🛠 Tech:</strong> HTML, CSS, JavaScript
+        <p style="color: white; font-style: italic; margin: 0 0 10px 0;">Smart Recycling Platform</p>
+        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
+          <strong style="color: white;">🏆 ISEF Science Fair</strong><br>
+          <strong style="color: white;">🌍 Environmental impact</strong><br>
+          <strong style="color: white;">🛠 HTML, CSS, JS</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -85,11 +91,12 @@ Hi there! I'm **Asmaa Mostafa**
       <td style="background: linear-gradient(135deg, #CD7F32, #8B4513); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(205,127,50,0.15); text-align: center; vertical-align: top;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
-        <p style="color: white; font-style: italic; margin: 0 0 15px 0;">Smart Weather Insights Platform</p>
-        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
-          <strong style="color: white;">🏆 NASA Space Apps Challenge</strong><br>
-          <strong style="color: white;">🚀 Purpose:</strong> Accurate & fast weather predictions<br>
-          <strong style="color: white;">🛠 Tech:</strong> JavaScript, APIs
+        <p style="color: white; font-style: italic; margin: 0 0 10px 0;">Weather Insights Platform</p>
+        <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="SkyCast Demo" width="100" style="border-radius: 10px; margin: 10px 0;" />
+        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
+          <strong style="color: white;">🏆 NASA Space Apps</strong><br>
+          <strong style="color: white;">🚀 Fast predictions</strong><br>
+          <strong style="color: white;">🛠 JavaScript, APIs</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -98,10 +105,11 @@ Hi there! I'm **Asmaa Mostafa**
       <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: top;">
         <div style="font-size: 3em; margin-bottom: 15px;">🧩</div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0;">Portfolio Pro</h3>
-        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">Professional Portfolio Website</p>
-        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
-          <strong style="color: #4682B4;">🎨 Modern Design</strong> | Responsive Layout<br>
-          <strong style="color: #4682B4;">🛠 Tech:</strong> React, CSS3, JavaScript
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 10px 0;">Professional Portfolio</p>
+        <div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 10px; margin: 10px 0;">
+          <strong style="color: #4682B4;">🎨 Modern Design</strong><br>
+          <strong style="color: #4682B4;">📱 Responsive Layout</strong><br>
+          <strong style="color: #4682B4;">🛠 React, CSS3</strong>
         </div>
         <a href="#" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Coming%20Soon-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Coming Soon" />
@@ -110,7 +118,7 @@ Hi there! I'm **Asmaa Mostafa**
     </tr>
   </table>
   
-  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 25px; border-radius: 15px; margin-top: 30px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
+  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 25px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
     <h3 style="color: white; margin: 0 0 15px 0;">📚 Additional Notable Projects</h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; color: white;">
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
