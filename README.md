@@ -85,8 +85,6 @@ Hi there! I'm **Asmaa Mostafa**
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td style="background: linear-gradient(135deg, #CD7F32, #8B4513); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(205,127,50,0.15); text-align: center; vertical-align: top;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
