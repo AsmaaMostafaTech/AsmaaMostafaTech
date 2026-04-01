@@ -91,15 +91,13 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /></td>
     </tr>
     <tr>
       <td><strong>PHP</strong></td>
       <td><strong>Laravel</strong></td>
       <td><strong>Node.js</strong></td>
-      <td><strong>MongoDB</strong></td>
       <td><strong>MySQL</strong></td>
     </tr>
   </table>
