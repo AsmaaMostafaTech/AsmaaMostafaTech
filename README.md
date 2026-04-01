@@ -26,9 +26,6 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 - 📚 Exploring **TypeScript, Advanced React, and Cloud Computing**  
 - 🌱 Developing **sustainable tech solutions** for a better future
 
-### 🌟 Life Motto
-*"Think different, code better, build brighter!"*
-
 ---
 
 ## 📊 GitHub Analytics
@@ -43,9 +40,6 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ### 🔥 **Contribution Streak**
 <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=B0E0E6&stroke=4682B4&ring=4682B4&fire=4682B4&currStreakLabel=2C3E50&dates=4682B4"/>
-
-### 📈 **Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph&radius=8&color=4682B4&line=4682B4&point=4682B4&bg_color=B0E0E6" />
 
 </div>
 
