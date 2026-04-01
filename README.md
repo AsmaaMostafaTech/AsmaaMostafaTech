@@ -161,21 +161,53 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/asmaamostafa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
-  </a>
+  <p style="font-size: 1.2em; color: #4682B4; margin-bottom: 20px;">
+    <strong>🤝 Let's build something amazing together!</strong>
+  </p>
   
-  <a href="mailto:asmaamostafa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+    
+    <a href="https://linkedin.com/in/asmaamostafa" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" 
+           alt="LinkedIn" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
+           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(10,102,194,0.3)'" 
+           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+    </a>
+    
+    <a href="mailto:asmaamostafa.dev@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" 
+           alt="Email" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
+           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(209,72,54,0.3)'" 
+           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+    </a>
+    
+    <a href="https://github.com/AsmaaMostafaTech" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" 
+           alt="GitHub" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
+           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(24,23,37,0.3)'" 
+           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+    </a>
+    
+    <a href="https://asmaamostafa.tech" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" 
+           alt="Portfolio" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 8px;" 
+           onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 12px rgba(70,130,180,0.3)'" 
+           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+    </a>
+    
+  </div>
   
-  <a href="https://github.com/AsmaaMostafaTech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
-  </a>
+  <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
+    <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
+      <strong>🚀 Open to collaborations and exciting opportunities!</strong><br>
+      <span style="font-size: 0.9em; opacity: 0.9;">Feel free to reach out for projects, discussions, or just to say hello! 👋</span>
+    </p>
+  </div>
   
-  <a href="https://asmaamostafa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" />
-  </a>
+  <div style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" 
+         alt="Penguin Theme" width="100" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  </div>
 
 </div>
 
