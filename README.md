@@ -53,63 +53,75 @@ Hi there! I'm **Asmaa Mostafa**
 
 <div align="center">
   
-  ### 🤟 **SignTalk – Sign Language Translator**
-  <p><em>An AI-based web application that translates sign language into spoken words to improve communication for deaf and mute individuals.</em></p>
-  
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Web_APIs-007396?style=flat-square&logo=api&logoColor=white" alt="Web APIs" />
+  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
+    <h2 style="color: white; margin: 0; font-size: 2em;">🏆 Award-Winning Projects</h2>
+    <p style="color: white; opacity: 0.9; margin: 10px 0;">Innovative solutions with real-world impact</p>
   </div>
   
-  <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
-  </a>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: top;">
+        <div style="font-size: 3em; margin-bottom: 15px;">🤟</div>
+        <h3 style="color: #2C3E50; margin: 0 0 10px 0;">SignTalk</h3>
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">AI-Powered Sign Language Translation</p>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: #4682B4;">🤖 AI Project</strong> | Real-world impact<br>
+          <strong style="color: #4682B4;">🛠 Tech:</strong> JavaScript, AI, Web APIs
+        </div>
+        <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank" style="display: inline-block; margin-top: 15px;">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+      <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: top;">
+        <div style="font-size: 3em; margin-bottom: 15px;">♻️</div>
+        <h3 style="color: #2C3E50; margin: 0 0 10px 0;">RecyConnect</h3>
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">Sustainability Platform</p>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: #4682B4;">🌍 Sustainability</strong> | Competition Winner<br>
+          <strong style="color: #4682B4;">🛠 Tech:</strong> HTML, CSS, JavaScript
+        </div>
+        <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank" style="display: inline-block; margin-top: 15px;">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: top;">
+        <div style="font-size: 3em; margin-bottom: 15px;">🌤️</div>
+        <h3 style="color: #2C3E50; margin: 0 0 10px 0;">SkyCast</h3>
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">Advanced Weather Forecasting</p>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: #4682B4;">⚡ Interactive Web App</strong> | Real-time Data<br>
+          <strong style="color: #4682B4;">🛠 Tech:</strong> JavaScript, APIs
+        </div>
+        <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank" style="display: inline-block; margin-top: 15px;">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+      <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: top;">
+        <div style="font-size: 3em; margin-bottom: 15px;">🧩</div>
+        <h3 style="color: #2C3E50; margin: 0 0 10px 0;">Portfolio Pro</h3>
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">Professional Portfolio Website</p>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: #4682B4;">🎨 Modern Design</strong> | Responsive Layout<br>
+          <strong style="color: #4682B4;">🛠 Tech:</strong> React, CSS3, JavaScript
+        </div>
+        <a href="#" target="_blank" style="display: inline-block; margin-top: 15px;">
+          <img src="https://img.shields.io/badge/🔗%20Coming%20Soon-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Coming Soon" />
+        </a>
+      </td>
+    </tr>
+  </table>
   
-  ---
-  
-  ### ♻️ **RecyConnect**
-  <p><em>A sustainability-focused platform that connects users with recycling services to reduce environmental waste.</em></p>
-  
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  </div>
-  
-  <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
-  </a>
-  
-  ---
-  
-  ### 🌤️ **SkyCast**
-  <p><em>A modern weather forecasting web app with dynamic UI and real-time data.</em></p>
-  
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Interactive-FF9800?style=flat-square&logo=web&logoColor=white" alt="Interactive" />
-  </div>
-  
-  <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
-  </a>
-  
-  ---
-  
-  ### 🧩 **Other Notable Projects**
-  
-  <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
-    <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
-      <strong>� Diverse Project Portfolio:</strong><br>
-      <span style="font-size: 0.9em; opacity: 0.9;">
-        • Library Website (PHP, MySQL)<br>
-        • Restaurant System (Laravel)<br>
-        • Luxury Fake Store (JavaScript)<br>
-        • Personal Portfolio Website<br>
-        • Final Graduation Project
-      </span>
-    </p>
+  <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 25px; border-radius: 15px; margin-top: 30px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
+    <h3 style="color: white; margin: 0 0 15px 0;">📚 Additional Notable Projects</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; color: white;">
+      <div>🏛️ <strong>Library Management System</strong><br><small>PHP, MySQL, Bootstrap</small></div>
+      <div>🍽️ <strong>Restaurant POS System</strong><br><small>Laravel, Vue.js, MySQL</small></div>
+      <div>🛒 <strong>E-Commerce Platform</strong><br><small>JavaScript, Node.js, MongoDB</small></div>
+      <div>🎓 <strong>Academic Research Portal</strong><br><small>Python, Django, PostgreSQL</small></div>
+      <div>📊 <strong>Data Analytics Dashboard</strong><br><small>React, D3.js, APIs</small></div>
+    </div>
   </div>
   
 </div>
