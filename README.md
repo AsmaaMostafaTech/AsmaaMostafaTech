@@ -45,7 +45,61 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## � Featured Projects
+
+<div align="center">
+  
+  <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" />
+  
+  ### 🌟 **Project Showcase**
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/AsmaaMostafaTech/Project-Alpha" target="_blank">
+          <img src="https://via.placeholder.com/400x200/4682B4/FFFFFF?text=Project+Alpha" alt="Project Alpha" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(70,130,180,0.3);" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/AsmaaMostafaTech/Project-Beta" target="_blank">
+          <img src="https://via.placeholder.com/400x200/B0E0E6/4682B4?text=Project+Beta" alt="Project Beta" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(176,224,230,0.3);" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>🚀 <strong>Project Alpha</strong></h4>
+        <p><em>Full-stack web application with React & Node.js</em></p>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        </div>
+      </td>
+      <td>
+        <h4>🎨 <strong>Project Beta</strong></h4>
+        <p><em>Modern UI with TypeScript & Tailwind CSS</em></p>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
+    <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
+      <strong>🔥 Want to see more?</strong><br>
+      <span style="font-size: 0.9em; opacity: 0.9;">Check out my GitHub repositories for 15+ amazing projects! 🚀</span>
+    </p>
+  </div>
+  
+</div>
+
+---
+
+## �🛠️ Tech Stack & Expertise
 
 <div align="center">
   <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" />
