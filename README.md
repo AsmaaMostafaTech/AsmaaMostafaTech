@@ -110,6 +110,8 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
       <td><strong>OOP</strong></td>
       <td><strong>Data Structures</strong></td>
       <td><strong>Database Design</strong></td>
+      <td><strong>Testing</strong></td>
+      <td><strong>Design Patterns</strong></td>
     </tr>
   </table>
   
