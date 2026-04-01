@@ -116,27 +116,42 @@ Hi there! I'm **Asmaa Mostafa**
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
         <div style="font-size: 2em; margin-bottom: 10px;">🏛️</div>
         <strong>Library Management System</strong><br>
-        <small>PHP, MySQL, Bootstrap</small>
+        <small>PHP, MySQL, Bootstrap</small><br>
+        <a href="https://github.com/AsmaaMostafaTech/library-management" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
         <div style="font-size: 2em; margin-bottom: 10px;">🍽️</div>
         <strong>Restaurant POS System</strong><br>
-        <small>Laravel, Vue.js, MySQL</small>
+        <small>Laravel, Vue.js, MySQL</small><br>
+        <a href="https://github.com/AsmaaMostafaTech/restaurant-pos" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
         <div style="font-size: 2em; margin-bottom: 10px;">🛒</div>
         <strong>E-Commerce Platform</strong><br>
-        <small>JavaScript, Node.js, MongoDB</small>
+        <small>JavaScript, Node.js, MongoDB</small><br>
+        <a href="https://github.com/AsmaaMostafaTech/ecommerce-platform" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
         <div style="font-size: 2em; margin-bottom: 10px;">🎓</div>
         <strong>Academic Research Portal</strong><br>
-        <small>Python, Django, PostgreSQL</small>
+        <small>Python, Django, PostgreSQL</small><br>
+        <a href="https://github.com/AsmaaMostafaTech/academic-portal" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
         <div style="font-size: 2em; margin-bottom: 10px;">📊</div>
         <strong>Data Analytics Dashboard</strong><br>
-        <small>React, D3.js, APIs</small>
+        <small>React, D3.js, APIs</small><br>
+        <a href="https://github.com/AsmaaMostafaTech/analytics-dashboard" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
     </div>
   </div>
