@@ -118,6 +118,8 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ## 🚀 What I Build  
 
+<img align='right' src="https://i.pinimg.com/originals/28/24/40/2824406464145a759b5396caeccf290b.gif" width="250">
+
 - 💻 **Full-Stack Web Applications** with modern architectures  
 - 🎨 **Responsive Front-End Interfaces** (React, Redux, Tailwind CSS)  
 - ⚙️ **Scalable Back-End APIs** (Node.js, Express, MongoDB, PostgreSQL)  
