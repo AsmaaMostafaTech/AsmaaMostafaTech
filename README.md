@@ -146,18 +146,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆-Top%20Contributor-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐-100%2B%20Stars-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥-Active%20Developer-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-4CAF50?style=for-the-badge" />
-</div>
-
----
-
-## 🌍 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   
