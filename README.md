@@ -35,17 +35,6 @@ Hi there! I'm **Asmaa Mostafa**
     <p style="color: white; opacity: 0.9; margin: 10px 0;">Real-time development insights & activity metrics</p>
   </div>
   
-### 🚀 **GitHub Overview**
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&card_width=350"/>
-</div>
-
-### 🔥 **Contribution Streak**
-<img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=B0E0E6&stroke=4682B4&ring=4682B4&fire=4682B4&currStreakLabel=2C3E50&dates=4682B4" style="width: 100%; max-width: 800px;"/>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
