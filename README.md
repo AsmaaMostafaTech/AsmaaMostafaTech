@@ -122,7 +122,56 @@ Hi there! I'm **Asmaa Mostafa**
 
 ---
 
-## ��️ Tech Stack & Expertise
+## 🏆 Competition Projects
+
+<div align="center">
+  
+  <div style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 25px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 40px rgba(255,215,0,0.2);">
+    <h2 style="color: white; margin: 0; font-size: 2em;">🏆 Award-Winning Competition Projects</h2>
+    <p style="color: white; opacity: 0.9; margin: 10px 0;">Innovative solutions recognized by global tech leaders</p>
+  </div>
+  
+  <table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(255,215,0,0.15); text-align: center; vertical-align: top;">
+        <div style="font-size: 4em; margin-bottom: 15px;">🥇</div>
+        <h3 style="color: #2C3E50; margin: 0 0 10px 0; font-size: 1.5em;">SignTalk</h3>
+        <p style="color: #2C3E50; font-style: italic; margin: 0 0 15px 0;">AI-powered sign language translator</p>
+        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: #FF6B35;">🏆 Built for Huawei Competition</strong><br>
+          <strong style="color: #FF6B35;">💡 Impact:</strong> Helps bridge the communication gap for the hearing impaired
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: linear-gradient(135deg, #C0C0C0, #808080); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(192,192,192,0.15); text-align: center; vertical-align: top;">
+        <div style="font-size: 4em; margin-bottom: 15px;">🥈</div>
+        <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">RecyConnect</h3>
+        <p style="color: white; font-style: italic; margin: 0 0 15px 0;">Sustainability & smart recycling platform</p>
+        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: white;">🏆 ISEF (Regeneron International Science and Engineering Fair)</strong><br>
+          <strong style="color: white;">🌍 Focus:</strong> Improving environmental awareness and waste management
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: linear-gradient(135deg, #CD7F32, #8B4513); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(205,127,50,0.15); text-align: center; vertical-align: top;">
+        <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
+        <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
+        <p style="color: white; font-style: italic; margin: 0 0 15px 0;">Smart weather insights platform</p>
+        <div style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <strong style="color: white;">🏆 NASA Space Apps Challenge</strong><br>
+          <strong style="color: white;">🚀 Purpose:</strong> Deliver accurate and fast weather predictions
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
   <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" />
