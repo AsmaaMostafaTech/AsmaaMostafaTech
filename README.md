@@ -1,17 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&color=ffffff&color=0D1117&height=280&section=header&text=Asmaa%20Mostafa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AsmaaMostafaTech%20%7C%20Creative%20Technologist&descSize=20&descColor=89CFF0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&color=ffffff&color=FF6B35&height=280&section=header&text=Asmaa%20Mostafa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AsmaaMostafaTech%20%7C%20Creative%20Technologist&descSize=20&descColor=FF6B35)
 
 </div>  
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a>from <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a></div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="300" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -198,7 +197,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&color=ffffff&color=0D1117&height=160&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&color=ffffff&color=FF6B35&height=160&section=footer&animation=twinkling" />
 </div>
 
 ---
