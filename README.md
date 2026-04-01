@@ -166,10 +166,6 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
   </a>
   
-  <a href="https://asmaamostafa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4682B4?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" alt="Portfolio" />
-  </a>
-  
   <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
     <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
       <strong>🚀 Open to collaborations and exciting opportunities!</strong><br>
@@ -184,13 +180,6 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsmaaMostafaTech&style=for-the-badge&color=4682B4" alt="Profile views" />
-</div>
-
----
 
 <div align="center">
   <p><em>Thank you for visiting! Let's build something amazing together 🚀</em></p>
