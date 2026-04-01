@@ -53,8 +53,6 @@ Hi there! I'm **Asmaa Mostafa**
 
 <div align="center">
   
-  <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" />
-  
   ### 🌟 **My GitHub Repositories**
   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafaTech&repo=AsmaaMostafaTech&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4" alt="AsmaaMostafaTech Repository" width="48%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(70,130,180,0.3);" />
