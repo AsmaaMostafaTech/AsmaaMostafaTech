@@ -53,19 +53,62 @@ Hi there! I'm **Asmaa Mostafa**
 
 <div align="center">
   
-  ### 🌟 **My GitHub Repositories**
+  ### 🤟 **SignTalk – Sign Language Translator**
+  <p><em>An AI-based web application that translates sign language into spoken words to improve communication for deaf and mute individuals.</em></p>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafaTech&repo=AsmaaMostafaTech&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4" alt="AsmaaMostafaTech Repository" width="48%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(70,130,180,0.3);" />
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Web_APIs-007396?style=flat-square&logo=api&logoColor=white" alt="Web APIs" />
+  </div>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafaTech&repo=awesome-project&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4" alt="Awesome Project Repository" width="48%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(176,224,230,0.3);" />
+  <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
+  </a>
   
-  ### � **Repository Overview**
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=B0E0E6&title_color=4682B4&text_color=2C3E50&icon_color=4682B4&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);" />
+  ---
+  
+  ### ♻️ **RecyConnect**
+  <p><em>A sustainability-focused platform that connects users with recycling services to reduce environmental waste.</em></p>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </div>
+  
+  <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
+  </a>
+  
+  ---
+  
+  ### 🌤️ **SkyCast**
+  <p><em>A modern weather forecasting web app with dynamic UI and real-time data.</em></p>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Interactive-FF9800?style=flat-square&logo=web&logoColor=white" alt="Interactive" />
+  </div>
+  
+  <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-4682B4?style=for-the-badge" alt="View Project" />
+  </a>
+  
+  ---
+  
+  ### 🧩 **Other Notable Projects**
   
   <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
     <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
-      <strong>🔥 Explore my work!</strong><br>
-      <span style="font-size: 0.9em; opacity: 0.9;">Visit my GitHub profile for 15+ innovative projects and contributions! 🚀</span>
+      <strong>� Diverse Project Portfolio:</strong><br>
+      <span style="font-size: 0.9em; opacity: 0.9;">
+        • Library Website (PHP, MySQL)<br>
+        • Restaurant System (Laravel)<br>
+        • Luxury Fake Store (JavaScript)<br>
+        • Personal Portfolio Website<br>
+        • Final Graduation Project
+      </span>
     </p>
   </div>
   
