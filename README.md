@@ -16,12 +16,16 @@
 
 <img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="25%" />
 
-Hi there! I'm **Asmaa Mostafa** — 💻 the founder of **AsmaaMostafaTech** and a **Full-Stack Developer** with a strong passion for building meaningful and creative digital solutions.  
+Hi there! I'm **Asmaa Mostafa**  
 
-💡 At **AsmaaMostafaTech**, I believe that **technology + creativity + sustainability** can shape a better future.  
-I enjoy blending **clean code, modern design, and innovation** to bring ideas to life.  
+� **Full Stack Developer | React • Laravel • Node.js**
 
-### 🎯 Current Focus
+### ✨ **Core Strengths**
+- ⚡ **Building scalable web apps** with modern architecture
+- 🔥 **Clean code & problem solving** with best practices  
+- 🌱 **Passionate about AI & sustainability** in tech
+
+### 🎯 **Current Focus**
 - 🚀 Creating **innovative full-stack web projects** that solve real-world problems  
 - 📚 Exploring **TypeScript, Advanced React, and Cloud Computing**  
 - 🌱 Developing **sustainable tech solutions** for a better future
@@ -166,37 +170,13 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-##  Let's Connect!
+## 📬 Let's Connect
 
 <div align="center">
   
-  <p style="font-size: 1.2em; color: #4682B4; margin-bottom: 20px;">
-    <strong>🤝 Let's build something amazing together!</strong>
-  </p>
-  
-  <a href="https://linkedin.com/in/asmaamostafa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:asmaamostafa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
-  
-  <a href="https://github.com/AsmaaMostafaTech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
-  </a>
-  
-  <div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
-    <p style="color: white; font-size: 1.1em; margin: 0; text-align: center;">
-      <strong>🚀 Open to collaborations and exciting opportunities!</strong><br>
-      <span style="font-size: 0.9em; opacity: 0.9;">Feel free to reach out for projects, discussions, or just to say hello! 👋</span>
-    </p>
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" 
-         alt="Penguin Theme" width="100" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaamostafa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaamostafa.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsmaaMostafaTech)
 
 </div>
 
