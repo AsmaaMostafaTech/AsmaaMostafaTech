@@ -53,67 +53,52 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ## 🛠️ Tech Stack & Expertise
 
-<div style="background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 15px; padding: 25px; margin: 20px 0; box-shadow: 0 8px 32px rgba(70, 130, 180, 0.1);">
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+<div align="center">
+  <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" />
   
-  <div style="flex: 1;">
-    <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" style="margin-left: 20px; border-radius: 10px;" />
-  </div>
+  ### 💻 Core Technologies
+  <table>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript</strong></td>
+      <td><strong>TypeScript</strong></td>
+      <td><strong>Python</strong></td>
+    </tr>
+  </table>
   
-  <div style="flex: 2; background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
-    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">💻 **Core Technologies**</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">JavaScript</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">TypeScript</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Python</strong>
-      </div>
-    </div>
-    
-    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">⚛️ **Frontend & Backend**</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">React</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Node.js</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">MongoDB</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">MySQL</strong>
-      </div>
-    </div>
-    
-    <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">🗄️ **Database & DevOps**</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Figma</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Git</strong>
-      </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Docker</strong>
-      </div>
-    </div>
-  </div>
+  ### ⚛️ Frontend & Backend
+  <table>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td><strong>React</strong></td>
+      <td><strong>Node.js</strong></td>
+      <td><strong>MongoDB</strong></td>
+      <td><strong>MySQL</strong></td>
+    </tr>
+  </table>
+  
+  ### 🗄️ Database & DevOps
+  <table>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" /></td>
+      <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /></td>
+    </tr>
+    <tr>
+      <td><strong>Figma</strong></td>
+      <td><strong>Git</strong></td>
+      <td><strong>Docker</strong></td>
+    </tr>
+  </table>
 </div>  
 
 ---
