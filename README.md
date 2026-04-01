@@ -59,11 +59,11 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### 💻 Core Technologies
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="animation: bounce 2s infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="animation: pulse 2s infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="animation: spin 3s linear infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="animation: shake 1.5s infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="animation: bounce 1.8s infinite;" /></td>
     </tr>
     <tr>
       <td><strong>JavaScript</strong></td>
@@ -77,9 +77,9 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### 🎨 Frontend Frameworks
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="animation: pulse 2.2s infinite;" /></td>
+      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" style="animation: spin 4s linear infinite;" /></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" style="animation: bounce 2.5s infinite;" /></td>
     </tr>
     <tr>
       <td><strong>Bootstrap</strong></td>
@@ -91,10 +91,10 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### ⚙️ Backend & Database
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="animation: shake 2s infinite;" /></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" style="animation: pulse 3s infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="animation: bounce 1.7s infinite;" /></td>
+      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" style="animation: spin 5s linear infinite;" /></td>
     </tr>
     <tr>
       <td><strong>PHP</strong></td>
@@ -107,20 +107,20 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### 🧠 Programming Concepts
   <table>
     <tr>
-      <td><strong>OOP</strong></td>
-      <td><strong>Data Structures</strong></td>
-      <td><strong>Database Design</strong></td>
-      <td><strong>Testing</strong></td>
-      <td><strong>Design Patterns</strong></td>
+      <td><strong style="animation: pulse 2s infinite;">OOP</strong></td>
+      <td><strong style="animation: bounce 2.3s infinite;">Data Structures</strong></td>
+      <td><strong style="animation: shake 1.8s infinite;">Database Design</strong></td>
+      <td><strong style="animation: pulse 2.7s infinite;">Testing</strong></td>
+      <td><strong style="animation: bounce 2.1s infinite;">Design Patterns</strong></td>
     </tr>
   </table>
   
   ### 🛠️ Tools & DevOps
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="animation: spin 6s linear infinite;" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="animation: bounce 1.9s infinite;" /></td>
+      <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" style="animation: pulse 2.4s infinite;" /></td>
     </tr>
     <tr>
       <td><strong>Figma</strong></td>
