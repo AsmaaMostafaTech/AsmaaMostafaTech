@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="15%" />
+<img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="25%" />
 
 Hi there! I'm **Asmaa Mostafa**  
 
@@ -240,6 +240,7 @@ Hi there! I'm **Asmaa Mostafa**
 ## 📬 Let's Connect
 
 <div align="center">
+  <img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="10%" />
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaamostafa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaamostafa.dev@gmail.com)
