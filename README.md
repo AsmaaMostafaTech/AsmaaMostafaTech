@@ -51,57 +51,65 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-<img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250">
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250" style="margin-left: 20px;" />
+  </div>
+  <div style="flex: 2;">
+    <h3 style="color: #4682B4; margin-bottom: 15px;">💻 **Core Technologies**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+        <br><strong style="color: white;">JavaScript</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+        <br><strong style="color: white;">TypeScript</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+        <br><strong style="color: white;">Python</strong>
+      </div>
+    </div>
+    
+    <h3 style="color: #4682B4; margin-bottom: 15px;">⚛️ **Frontend Frameworks**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+        <br><strong style="color: white;">React</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+        <br><strong style="color: white;">Node.js</strong>
+      </div>
+    </div>
+    
+    <h3 style="color: #4682B4; margin-bottom: 15px;">🗄️ **Database & Tools**</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+        <br><strong style="color: white;">MongoDB</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+        <br><strong style="color: white;">MySQL</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50" />
+        <br><strong style="color: white;">Figma</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+        <br><strong style="color: white;">Git</strong>
+      </div>
+      <div style="text-align: center; padding: 10px; background: linear-gradient(135deg, #B0E0E6, #4682B4); border-radius: 10px; min-width: 100px;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+        <br><strong style="color: white;">Docker</strong>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
