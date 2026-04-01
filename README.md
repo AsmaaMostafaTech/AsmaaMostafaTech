@@ -6,12 +6,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=89CFF0&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;💡+Creative+Problem+Solver;🌍+Future+Tech+Advocate;✨+Building+Digital+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafaTech&repo=asmaa-portfolio&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d" />
 </div>
 
 ---
@@ -38,20 +38,20 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaaMostafaTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMostafaTech&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&card_width=320"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff"/>
+  <img src="https://streak-stats.demolab.com/?user=AsmaaMostafaTech&theme=radical&hide_border=true&background=0D1117&stroke=89CFF0&ring=89CFF0&fire=FF6B6B&currStreakLabel=ffffff&dates=FFC107"/>
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true" alt="Asmaa's GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaaMostafaTech&theme=react-dark&hide_border=true&area=true&custom_title=Asmaa's%20Activity%20Graph&radius=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaaMostafaTech&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AsmaaMostafaTech&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3"/>
 </div>
 
 ---
@@ -179,14 +179,14 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 ## 📈 Impact & Metrics
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AsmaaMostafaTech/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=AsmaaMostafaTech&style=for-the-badge&color=89CFF0" alt="Profile views" />
 </div>
 
 ---
 
 <div align="center">
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.&author=Asmaa%20Mostafa" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.&author=Asmaa%20Mostafa" />
   </p>
 </div>
 
