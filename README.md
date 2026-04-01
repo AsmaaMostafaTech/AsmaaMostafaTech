@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=280&section=header&text=Asmaa%20Mostafa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AsmaaMostafaTech%20%7C%20Creative%20Technologist&descSize=20&descColor=ffffff)
@@ -18,17 +16,22 @@
 
 ---
 
-## 👩‍💻 Who Am I?
+## 👩‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
 
 Hi there! I'm **Asmaa Mostafa** — 💻 the founder of **AsmaaMostafaTech** and a **Full-Stack Developer** with a strong passion for building meaningful and creative digital solutions.  
 
 💡 At **AsmaaMostafaTech**, I believe that **technology + creativity + sustainability** can shape a better future.  
 I enjoy blending **clean code, modern design, and innovation** to bring ideas to life.  
 
-- 🚀 **Current Focus:** Creating **innovative full-stack web projects** that solve real-world problems  
-- 📚 **Currently Exploring:** TypeScript, Advanced React, and Cloud Computing  
-- 🎯 **Mission:** Deliver tech that is **accessible, impactful, and future-ready** 🌍  
-- 🌟 **Life Motto:** *"Think different, code better, build brighter!"*
+### 🎯 Current Focus
+- 🚀 Creating **innovative full-stack web projects** that solve real-world problems  
+- 📚 Exploring **TypeScript, Advanced React, and Cloud Computing**  
+- 🌱 Developing **sustainable tech solutions** for a better future
+
+### 🌟 Life Motto
+*"Think different, code better, build brighter!"*
 
 ---
 
@@ -53,7 +56,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🛠️ My Toolbox  
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
   <table>
@@ -106,51 +109,29 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/AsmaaMostafa899/project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafa899&repo=project1&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/AsmaaMostafa899/project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsmaaMostafa899&repo=project2&theme=radical&bg_color=0D1117&title_color=89CFF0&text_color=ffffff&icon_color=89CFF0&border_color=30363d" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🚀 What I Build  
 
-- 💻 Full-Stack Web Applications  
-- 🎨 Modern Front-End Interfaces (React, Redux, Bootstrap)  
-- ⚙️ Scalable Back-End APIs (Node.js, Express, MongoDB, MySQL)  
-- 🌍 Projects that combine **creativity + technology + sustainability**
+- 💻 **Full-Stack Web Applications** with modern architectures  
+- 🎨 **Responsive Front-End Interfaces** (React, Redux, Tailwind CSS)  
+- ⚙️ **Scalable Back-End APIs** (Node.js, Express, MongoDB, PostgreSQL)  
+- 🌱 **Sustainable Tech Solutions** that combine creativity with functionality  
+- 🔄 **CI/CD Pipelines** and DevOps best practices  
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Current Goals & Vision
 
-<div align="center">
-<<<<<<< HEAD
-  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafaTech/raw/main/assets/rocket.gif" width="80" />
-=======
-  <img src="https://github.com/AsmaaMostafa899/AsmaaMostafa899/raw/main/assets/rocket.gif" width="80" />
->>>>>>> a78f4269804fa77e6f8cf60dbed1e4be4e2b1de3
-</div>
+<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
-- 🚀 **Building innovative full-stack applications** that solve real-world problems
-- 📚 **Mastering TypeScript** and advanced React patterns
-- ☁️ **Exploring cloud computing** and serverless architectures
-- 🎨 **Creating accessible** and inclusive digital experiences
-- 🌱 **Developing sustainable tech solutions** for a better future
+### 🚀 Short-term Goals
+- **Master TypeScript** and advanced React patterns  
+- **Explore cloud computing** with AWS and serverless architectures  
+- **Contribute to open-source** projects that make a difference  
+
+### 🌍 Long-term Vision
+- **Build products** that solve real-world problems  
+- **Mentor aspiring developers** and share knowledge  
+- **Create sustainable tech** solutions for a better future  
 
 ---
 
@@ -160,6 +141,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   <img src="https://img.shields.io/badge/🏆-Top%20Contributor-89CFF0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⭐-100%2B%20Stars-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔥-Active%20Developer-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-4CAF50?style=for-the-badge" />
 </div>
 
 ---
@@ -176,7 +158,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
   
-  <a href="https://github.com/AsmaaMostafa899" target="_blank">
+  <a href="https://github.com/AsmaaMostafaTech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
   
@@ -185,27 +167,34 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   </a>
   
   <a href="https://asmaamostafa.tech" target="_blank">
-    <img src="https://img.shields.io/badge/AsmaaMostafaTech-89CFF0?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=react&logoColor=white&logoWidth=20" />
   </a>
 
 </div>
 
 ---
 
-## 📈 Visitor Counter
+## 📈 Impact & Metrics
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AsmaaMostafa899/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/AsmaaMostafaTech/count.svg" alt="Visitor Count" />
 </div>
 
 ---
 
 <div align="center">
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Let%20your%20code%20do%20the%20talking.&author=Asmaa%20Mostafa" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.&author=Asmaa%20Mostafa" />
   </p>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=160&section=footer&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="10%" />
+  <p><em>Thank you for visiting! Let's build something amazing together 🚀</em></p>
 </div>
