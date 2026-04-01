@@ -8,6 +8,8 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="15%" />
+
 Hi there! I'm **Asmaa Mostafa**  
 
 � **Full Stack Developer | React • Laravel • Node.js**
