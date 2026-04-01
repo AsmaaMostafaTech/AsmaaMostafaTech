@@ -90,7 +90,7 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50" /></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /></td>
     </tr>
