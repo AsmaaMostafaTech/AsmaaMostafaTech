@@ -64,13 +64,13 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   <div style="flex: 2; background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px;">
     <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">💻 **Core Technologies**</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+      <div style="text-align: center; padding: 12px; background: linear-gradient(135deg, #FF6B6B, #4ECDC4); border-radius: 10px; min-width: 100px; transition: transform 0.3s, box-shadow 0 4px 8px rgba(255,107,107,0.3);">
         JavaScript
       </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+      <div style="text-align: center; padding: 12px; background: linear-gradient(135deg, #3178C6, #34D399); border-radius: 10px; min-width: 100px; transition: transform 0.3s, box-shadow 0 4px 8px rgba(49,130,206,0.3);">
         TypeScript
       </div>
-      <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
+      <div style="text-align: center; padding: 12px; background: linear-gradient(135deg, #3776AB, #4CAF50); border-radius: 10px; min-width: 100px; transition: transform 0.3s, box-shadow 0 4px 8px rgba(55,180,75,0.3);">
         Python
       </div>
     </div>
