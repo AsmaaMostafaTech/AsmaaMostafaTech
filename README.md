@@ -59,9 +59,9 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
   ### 💻 Core Technologies
   <table>
     <tr>
-      <td><img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="50" height="50" /></td>
-      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /></td>
     </tr>
     <tr>
       <td><strong>JavaScript</strong></td>
