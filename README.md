@@ -79,10 +79,12 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" /></td>
       <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" /></td>
     </tr>
     <tr>
       <td><strong>Bootstrap</strong></td>
       <td><strong>React</strong></td>
+      <td><strong>Tailwind CSS</strong></td>
     </tr>
   </table>
   
