@@ -65,16 +65,13 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
     <h3 style="color: #2C3E50; margin-bottom: 20px; text-align: center; font-size: 1.3em;">💻 **Core Technologies**</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
       <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">JavaScript</strong>
+        JavaScript
       </div>
       <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">TypeScript</strong>
+        TypeScript
       </div>
       <div style="text-align: center; padding: 12px; background: rgba(70, 130, 180, 0.2); border-radius: 10px; min-width: 100px; transition: transform 0.3s;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-        <br><strong style="color: white; font-size: 0.9em;">Python</strong>
+        Python
       </div>
     </div>
     
