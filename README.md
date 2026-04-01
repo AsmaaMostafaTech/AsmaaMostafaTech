@@ -54,6 +54,8 @@ I enjoy blending **clean code, modern design, and innovation** to bring ideas to
 
 ## 🛠️ Tech Stack
 
+<img align='right' src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" width="250">
+
 <div align="center">
   <table>
     <tr>
