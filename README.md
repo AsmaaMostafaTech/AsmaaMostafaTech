@@ -98,7 +98,7 @@
 
 
 �🚀 Featured Projects
-
+<div align="center">
 
   <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
     <h2 style="color: white; margin: 0; font-size: 2em;">🏆 Award-Winning Featured Projects</h2>
@@ -208,7 +208,7 @@
       </div>
     </div>
   </div>
-
+  </div>
 
 
 📬 Let's Connect
