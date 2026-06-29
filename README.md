@@ -1,8 +1,4 @@
-<div align="center">
-
-
-
-</div>  
+ 
 
 👩‍💻 About Me
 
