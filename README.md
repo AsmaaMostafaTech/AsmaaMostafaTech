@@ -1,6 +1,6 @@
  
 
-👩‍💻 About Me
+ About Me
 
 
   <img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="25%" />
@@ -9,8 +9,8 @@
     <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Asmaa Mostafa</h1>
     <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.2em; font-style: italic;">Creative Full Stack Developer | Building innovative web solutions</p>
  
-- 📚 Exploring **TypeScript, Advanced React, and Cloud Computing**  
-- 🌱 Developing **sustainable tech solutions** for a better future
+-  Exploring **TypeScript, Advanced React, and Cloud Computing**  
+-  Developing **sustainable tech solutions** for a better future
 
 ️ Tech Stack & Expertise
 
@@ -35,7 +35,7 @@
     </tr>
   </table>
 
-🎨 Frontend Frameworks
+ Frontend Frameworks
 
   <table>
     <tr>
@@ -50,7 +50,7 @@
     </tr>
   </table>
 
-⚙️ Backend & Database
+ Backend & Database
 
   <table>
     <tr>
@@ -67,7 +67,7 @@
     </tr>
   </table>
 
-🧠 Programming Concepts
+ Programming Concepts
 
   <table>
     <tr>
@@ -79,7 +79,7 @@
     </tr>
   </table>
 
-🛠️ Tools & DevOps
+ Tools & DevOps
 
   <table>
     <tr>
@@ -97,24 +97,24 @@
 
 
 
-�🚀 Featured Projects
+� Featured Projects
 <div align="center">
 
   <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
-    <h2 style="color: white; margin: 0; font-size: 2em;">🏆 Award-Winning Featured Projects</h2>
+    <h2 style="color: white; margin: 0; font-size: 2em;"> Award-Winning Featured Projects</h2>
     <p style="color: white; opacity: 0.9; margin: 10px 0;">Innovative solutions recognized by global tech leaders</p>
   </div>
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(255,215,0,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
-        <div style="font-size: 4em; margin-bottom: 15px;">🥇</div>
+        <div style="font-size: 4em; margin-bottom: 15px;"></div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0; font-size: 1.5em;">SignTalk</h3>
-        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥇 <strong style="color: #FFD700;">Huawei Competition Winner</strong> | AI-powered sign language translation app</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;"> <strong style="color: #FFD700;">Huawei Competition Winner</strong> | AI-powered sign language translation app</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
-          <strong style="color: #FF6B35;">🏆 Huawei Winner</strong><br>
-          <strong style="color: #FF6B35;">💡 AI-Powered Communication</strong><br>
-          <strong style="color: #FF6B35;">🛠 JavaScript, TensorFlow</strong>
+          <strong style="color: #FF6B35;"> Huawei Winner</strong><br>
+          <strong style="color: #FF6B35;"> AI-Powered Communication</strong><br>
+          <strong style="color: #FF6B35;"> JavaScript, TensorFlow</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/SignTalk_Project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -123,11 +123,11 @@
       <td style="background: linear-gradient(135deg, #C0C0C0, #808080); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(192,192,192,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
         <div style="font-size: 4em; margin-bottom: 15px;">🥈</div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">RecyConnect</h3>
-        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥈 <strong style="color: white;">🏆 ISEF Science Fair</strong> | Smart recycling & sustainability platform</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥈 <strong style="color: white;"> ISEF Science Fair</strong> | Smart recycling & sustainability platform</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
-          <strong style="color: white;">🏆 ISEF Finalist</strong><br>
-          <strong style="color: white;">🌍 Environmental Impact</strong><br>
-          <strong style="color: white;">🛠 HTML, CSS, JavaScript</strong>
+          <strong style="color: white;">ISEF Finalist</strong><br>
+          <strong style="color: white;"> Environmental Impact</strong><br>
+          <strong style="color: white;"> HTML, CSS, JavaScript</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/RecyConnect_project" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
@@ -136,26 +136,26 @@
     </tr>
     <tr>
       <td style="background: linear-gradient(135deg, #CD7F32, #8B4513); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(205,127,50,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
-        <div style="font-size: 4em; margin-bottom: 15px;">🥉</div>
+        <div style="font-size: 4em; margin-bottom: 15px;"></div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">SkyCast</h3>
-        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥉 <strong style="color: white;">🏆 NASA Space Apps</strong> | Real-time weather insights platform</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;"> <strong style="color: white;"> NASA Space Apps</strong> | Real-time weather insights platform</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
-          <strong style="color: white;">🏆 NASA Space Apps</strong><br>
-          <strong style="color: white;">🚀 Real-time Predictions</strong><br>
-          <strong style="color: white;">🛠 JavaScript, Weather APIs</strong>
+          <strong style="color: white;"> NASA Space Apps</strong><br>
+          <strong style="color: white;"> Real-time Predictions</strong><br>
+          <strong style="color: white;"> JavaScript, Weather APIs</strong>
         </div>
         <a href="https://github.com/AsmaaMostafaTech/skycast_team" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Live%20Demo-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
         </a>
       </td>
       <td style="background: linear-gradient(135deg, #B0E0E6, #4682B4); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(70,130,180,0.1); text-align: center; vertical-align: middle; min-height: 280px;">
-        <div style="font-size: 3em; margin-bottom: 15px;">🧩</div>
+        <div style="font-size: 3em; margin-bottom: 15px;"></div>
         <h3 style="color: #2C3E50; margin: 0 0 10px 0;">Portfolio Pro</h3>
         <p style="color: #2C3E50; font-style: italic; margin: 0 0 10px 0;">Professional Portfolio</p>
         <div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 10px; margin: 10px 0;">
-          <strong style="color: #4682B4;">🎨 Modern Design</strong><br>
-          <strong style="color: #4682B4;">📱 Responsive Layout</strong><br>
-          <strong style="color: #4682B4;">🛠 React, CSS3</strong>
+          <strong style="color: #4682B4;"> Modern Design</strong><br>
+          <strong style="color: #4682B4;"> Responsive Layout</strong><br>
+          <strong style="color: #4682B4;"> React, CSS3</strong>
         </div>
         <a href="#" target="_blank" style="display: inline-block; margin-top: 15px;">
           <img src="https://img.shields.io/badge/🔗%20Coming%20Soon-4682B4?style=for-the-badge&logo=web&logoColor=white" alt="Coming Soon" />
@@ -167,7 +167,7 @@
   <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 25px; border-radius: 15px; margin-top: 20px; box-shadow: 0 8px 32px rgba(70,130,180,0.1);">
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; color: white;">
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
-        <div style="font-size: 1.8em; margin-bottom: 8px;">🏛️</div>
+        <div style="font-size: 1.8em; margin-bottom: 8px;"></div>
         <strong>Library Management System</strong><br>
         <small>Complete library solution with catalog & circulation management</small><br>
         <a href="https://github.com/AsmaaMostafaTech/library-website" target="_blank">
@@ -175,7 +175,7 @@
         </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
-        <div style="font-size: 1.8em; margin-bottom: 8px;">🍽️</div>
+        <div style="font-size: 1.8em; margin-bottom: 8px;"></div>
         <strong>Restaurant POS System</strong><br>
         <small>Complete restaurant management with order tracking & payments</small><br>
         <a href="https://github.com/AsmaaMostafaTech/restaurant-laravel-system" target="_blank">
@@ -183,7 +183,7 @@
         </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
-        <div style="font-size: 1.8em; margin-bottom: 8px;">🛒</div>
+        <div style="font-size: 1.8em; margin-bottom: 8px;"></div>
         <strong>E-Commerce Platform</strong><br>
         <small>Modern online shopping experience with cart & payment integration</small><br>
         <a href="https://github.com/AsmaaMostafaTech/luxury-fakestore" target="_blank">
@@ -191,7 +191,7 @@
         </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
-        <div style="font-size: 1.8em; margin-bottom: 8px;">🎓</div>
+        <div style="font-size: 1.8em; margin-bottom: 8px;"></div>
         <strong>Academic Research Portal</strong><br>
         <small>Research collaboration platform with paper management & analytics</small><br>
         <a href="https://github.com/AsmaaMostafaTech/asmaa-portfolio-Public" target="_blank">
@@ -199,7 +199,7 @@
         </a>
       </div>
       <div style="background: rgba(255,255,255,0.1); padding: 12px; border-radius: 10px;">
-        <div style="font-size: 1.8em; margin-bottom: 8px;">📊</div>
+        <div style="font-size: 1.8em; margin-bottom: 8px;"></div>
         <strong>Data Analytics Dashboard</strong><br>
         <small>Interactive data visualization with real-time analytics & reporting</small><br>
         <a href="https://github.com/AsmaaMostafaTech/AsmaaMostafaTech" target="_blank">
@@ -211,7 +211,7 @@
  </div>
 
 
-📬 Let's Connect
+ Let's Connect
 
 <div align="center">
   <img align="left" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="8%" />
