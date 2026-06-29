@@ -121,9 +121,9 @@
         </a>
       </td>
       <td style="background: linear-gradient(135deg, #C0C0C0, #808080); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(192,192,192,0.15); text-align: center; vertical-align: middle; min-height: 280px;">
-        <div style="font-size: 4em; margin-bottom: 15px;">🥈</div>
+        <div style="font-size: 4em; margin-bottom: 15px;"></div>
         <h3 style="color: white; margin: 0 0 10px 0; font-size: 1.5em;">RecyConnect</h3>
-        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;">🥈 <strong style="color: white;"> ISEF Science Fair</strong> | Smart recycling & sustainability platform</p>
+        <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.1em; font-style: italic;"> <strong style="color: white;"> ISEF Science Fair</strong> | Smart recycling & sustainability platform</p>
         <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 10px; margin: 10px 0;">
           <strong style="color: white;">ISEF Finalist</strong><br>
           <strong style="color: white;"> Environmental Impact</strong><br>
