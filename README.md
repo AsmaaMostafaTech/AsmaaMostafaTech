@@ -2,13 +2,13 @@
 
 👩‍💻 About Me
 
-<div >
+
   <img align="right" src="https://raw.githubusercontent.com/AsmaaMostafaTech/AsmaaMostafaTech/main/assets/penguin-theme.gif" alt="Penguin Theme" width="25%" />
 
   <div style="background: linear-gradient(135deg, #4682B4, #B0E0E6); padding: 30px; border-radius: 20px; margin-bottom: 25px; box-shadow: 0 10px 40px rgba(70,130,180,0.15);">
     <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Asmaa Mostafa</h1>
     <p style="color: white; opacity: 0.95; margin: 10px 0; font-size: 1.2em; font-style: italic;">Creative Full Stack Developer | Building innovative web solutions</p>
-  </div>  
+ 
 - 📚 Exploring **TypeScript, Advanced React, and Cloud Computing**  
 - 🌱 Developing **sustainable tech solutions** for a better future
 
