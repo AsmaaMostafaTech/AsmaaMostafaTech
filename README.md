@@ -10,7 +10,7 @@
   <!-- Profile Header with Gradient -->
   <h1 align="center">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave" />
-    <span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7, #DDA0DD, #98D8C8); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite; font-size: 3em; font-weight: 800;">
+    <span style="background: linear-gradient(90deg, #003087, #0070BA, #009cde, #003087, #0070BA, #009cde, #003087); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite; font-size: 3em; font-weight: 800;">
       Your Name
     </span>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave" />
@@ -27,15 +27,15 @@
   <!-- Premium Typing Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer+%7C+Tech+Visionary;💡+Building+the+Future+of+Software;🎯+Transforming+Ideas+into+Reality;⚡+Passionate+about+Clean+Code+%26+Innovation" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=003087&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer+%7C+Tech+Visionary;💡+Building+the+Future+of+Software;🎯+Transforming+Ideas+into+Reality;⚡+Passionate+about+Clean+Code+%26+Innovation" alt="Typing Animation" />
     </a>
   </p>
 
   <!-- Premium Stats Row -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF6B6B&label=👀+Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=4ECDC4&label=👥+Followers&logo=github" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=45B7D1&label=⭐+Total+Stars&logo=github" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=003087&label=👀+Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0070BA&label=👥+Followers&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=009cde&label=⭐+Total+Stars&logo=github" alt="GitHub Stars" />
   </p>
 
   <!-- Premium Social Links with Hover Effects -->
@@ -93,7 +93,7 @@
 </div>
 
 > <div align="center">
->   <h3 style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+>   <h3 style="background: linear-gradient(90deg, #003087, #0070BA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
 >     💭 "Code is poetry written in logic, and every line is an opportunity to create something beautiful."
 >   </h3>
 > </div>
@@ -196,7 +196,7 @@
     <tr>
       <td width="45%">
         <a href="https://github.com/YOUR_USERNAME/project1">
-          <img src="https://via.placeholder.com/400x250/FF6B6B/ffffff?text=Project+Alpha+Screenshot" alt="Project 1" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+          <img src="https://via.placeholder.com/400x250/003087/ffffff?text=Project+Alpha+Screenshot" alt="Project 1" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
         </a>
       </td>
       <td width="55%">
@@ -213,7 +213,7 @@
             <img src="https://img.shields.io/badge/👀_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
           <a href="https://project-demo.com">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-003087?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
           </a>
           <img src="https://img.shields.io/badge/🟢_Status-Active-success?style=flat-square" alt="Status" />
         </p>
@@ -222,7 +222,7 @@
     <tr>
       <td width="45%">
         <a href="https://github.com/YOUR_USERNAME/project2">
-          <img src="https://via.placeholder.com/400x250/4ECDC4/ffffff?text=Project+Beta+Screenshot" alt="Project 2" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+          <img src="https://via.placeholder.com/400x250/0070BA/ffffff?text=Project+Beta+Screenshot" alt="Project 2" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
         </a>
       </td>
       <td width="55%">
@@ -239,7 +239,7 @@
             <img src="https://img.shields.io/badge/👀_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
           <a href="https://project-demo2.com">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-003087?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
           </a>
           <img src="https://img.shields.io/badge/🟢_Status-Active-success?style=flat-square" alt="Status" />
         </p>
@@ -248,7 +248,7 @@
     <tr>
       <td width="45%">
         <a href="https://github.com/YOUR_USERNAME/project3">
-          <img src="https://via.placeholder.com/400x250/45B7D1/ffffff?text=Project+Gamma+Screenshot" alt="Project 3" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+          <img src="https://via.placeholder.com/400x250/009cde/ffffff?text=Project+Gamma+Screenshot" alt="Project 3" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
         </a>
       </td>
       <td width="55%">
@@ -265,7 +265,7 @@
             <img src="https://img.shields.io/badge/👀_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
           <a href="https://project-demo3.com">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-003087?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
           </a>
           <img src="https://img.shields.io/badge/🟢_Status-Active-success?style=flat-square" alt="Status" />
         </p>
@@ -290,24 +290,24 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=003087&icon_color=0070BA&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FF6B6B&sideNums=FFFFFF&sideLabels=4ECDC4&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=003087&ring=0070BA&fire=003087&currStreakNum=FFFFFF&currStreakLabel=003087&sideNums=FFFFFF&sideLabels=0070BA&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=003087&icon_color=0070BA&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&border_radius=15" alt="GitHub Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=003087&text_color=FFFFFF&icon_color=0070BA&border_radius=15" alt="GitHub Trophy" />
       </td>
     </tr>
   </table>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&color=4ECDC4&line=45B7D1&point=FF6B6B&area=true&area_color=4ECDC4&border_radius=15" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=003087&color=0070BA&line=009cde&point=003087&area=true&area_color=0070BA&border_radius=15" alt="Activity Graph" />
   
 </div>
 
@@ -336,19 +336,19 @@
   <table>
     <tr>
       <td>
-        <div style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 20px; border-radius: 15px; text-align: center;">
+        <div style="background: linear-gradient(135deg, #003087, #0070BA); padding: 20px; border-radius: 15px; text-align: center;">
           <h3 style="color: white; margin: 0;">🥇 1st Place</h3>
           <p style="color: white; margin: 10px 0 0 0;">Global Hackathon 2024</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #C0C0C0, #A8A8A8); padding: 20px; border-radius: 15px; text-align: center;">
+        <div style="background: linear-gradient(135deg, #0070BA, #009cde); padding: 20px; border-radius: 15px; text-align: center;">
           <h3 style="color: white; margin: 0;">🥈 2nd Place</h3>
           <p style="color: white; margin: 10px 0 0 0;">AI Innovation Challenge</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #CD7F32, #B87333); padding: 20px; border-radius: 15px; text-align: center;">
+        <div style="background: linear-gradient(135deg, #009cde, #001f4d); padding: 20px; border-radius: 15px; text-align: center;">
           <h3 style="color: white; margin: 0;">🏅 Top 10</h3>
           <p style="color: white; margin: 10px 0 0 0;">Codeforces Global Round</p>
         </div>
@@ -392,7 +392,7 @@
   <table>
     <tr>
       <td>
-        <div style="background: linear-gradient(135deg, #FF6B6B, #EE5A5A); padding: 25px; border-radius: 15px; color: white;">
+        <div style="background: linear-gradient(135deg, #003087, #001f4d); padding: 25px; border-radius: 15px; color: white;">
           <h3 style="color: white; margin: 0;">🚀 Currently Building</h3>
           <ul style="color: white; margin-top: 15px;">
             <li>AI-powered developer tools</li>
@@ -403,7 +403,7 @@
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 15px; color: white;">
+        <div style="background: linear-gradient(135deg, #0070BA, #005a8a); padding: 25px; border-radius: 15px; color: white;">
           <h3 style="color: white; margin: 0;">📚 Currently Learning</h3>
           <ul style="color: white; margin-top: 15px;">
             <li>Advanced Machine Learning</li>
@@ -414,7 +414,7 @@
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #45B7D1, #2196F3); padding: 25px; border-radius: 15px; color: white;">
+        <div style="background: linear-gradient(135deg, #009cde, #0070BA); padding: 25px; border-radius: 15px; color: white;">
           <h3 style="color: white; margin: 0;">🎯 Next Goals</h3>
           <ul style="color: white; margin-top: 15px;">
             <li>Launch a tech startup</li>
@@ -441,7 +441,7 @@
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; color: white; box-shadow: 0 20px 60px rgba(102, 126, 234, 0.4);">
+  <div style="background: linear-gradient(135deg, #003087 0%, #0070BA 100%); padding: 40px; border-radius: 20px; color: white; box-shadow: 0 20px 60px rgba(0, 48, 135, 0.4);">
     <h2 style="color: white; margin: 0; font-size: 2em;">💡 "The best code is the code you don't have to write."</h2>
     <p style="color: rgba(255,255,255,0.95); margin-top: 20px; font-size: 1.1em; line-height: 1.6;">
       I believe in simplicity, elegance, and building solutions that stand the test of time. 
@@ -512,19 +512,19 @@
   <table>
     <tr>
       <td>
-        <div style="background: linear-gradient(135deg, #FF6B6B, #EE5A5A); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(255, 107, 107, 0.3);">
+        <div style="background: linear-gradient(135deg, #003087, #001f4d); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 48, 135, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">☕ Coffee</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">5 cups per day</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(78, 205, 196, 0.3);">
+        <div style="background: linear-gradient(135deg, #0070BA, #005a8a); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 112, 186, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">🌍 Travel</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">15+ countries</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #45B7D1, #2196F3); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(69, 183, 209, 0.3);">
+        <div style="background: linear-gradient(135deg, #009cde, #0070BA); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 156, 191, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">🎮 Gaming</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">Level 99 Dev</p>
         </div>
@@ -532,19 +532,19 @@
     </tr>
     <tr>
       <td>
-        <div style="background: linear-gradient(135deg, #96CEB4, #85C1A0); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(150, 206, 180, 0.3);">
+        <div style="background: linear-gradient(135deg, #003087, #002566); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 48, 135, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">📚 Reading</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">50+ tech books</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #FFEAA7, #FDCA40); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(255, 234, 167, 0.3);">
+        <div style="background: linear-gradient(135deg, #0070BA, #005a8a); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 112, 186, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">🎵 Music</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">Lo-fi coder</p>
         </div>
       </td>
       <td>
-        <div style="background: linear-gradient(135deg, #DDA0DD, #BA55D3); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(221, 160, 221, 0.3);">
+        <div style="background: linear-gradient(135deg, #009cde, #0070BA); padding: 25px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(0, 156, 191, 0.3);">
           <h4 style="color: white; margin: 0; font-size: 1.5em;">⌨️ Keyboard</h4>
           <p style="color: rgba(255,255,255,0.95); margin: 15px 0 0 0; font-size: 1.2em;">Mechanical fan</p>
         </div>
@@ -568,7 +568,7 @@
 <div align="center">
   <p style="font-size: 1.3em;">If you find my work valuable, consider supporting me:</p>
   
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #003087 0%, #0070BA 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
     <p>
       <a href="https://github.com/YOUR_USERNAME?tab=repositories">
         <img src="https://img.shields.io/badge/⭐_Star_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=333&size=1.5em" alt="Star Repos" />
@@ -601,7 +601,7 @@
     <img src="https://media.giphy.com/media/jTNG3RF6EwbDGgd7Ig/giphy.gif" width="40" alt="code" />
   </p>
 
-  <h2 style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite;">
+  <h2 style="background: linear-gradient(90deg, #003087, #0070BA, #009cde); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite;">
     "The only way to do great work is to love what you do." — Steve Jobs
   </h2>
 
