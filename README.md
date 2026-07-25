@@ -27,9 +27,8 @@
   "funFact": "I debug with console.log 😅"
 }
 
-
-     🔭 Currently working on E-Commerce Platform & AI Content Generator
-     🌱 Learning System Design & Advanced TypeScript Patterns
+🔭 Currently working on E-Commerce Platform & AI Content Generator
+ 🌱 Learning System Design & Advanced TypeScript Patterns
      👯 Looking to collaborate on Open Source React/Node Projects
      🤔 Ask me about React, Next.js, Node.js, PostgreSQL, API Design
      💬 Fun fact: I've consumed ∞ cups of coffee while debugging ☕
